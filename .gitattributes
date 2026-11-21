@@ -1,0 +1,14 @@
+# Normalisasi akhir baris
+* text=auto
+
+# File yang menggunakan LF
+*.sh text eol=lf
+Dockerfile text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.py text eol=lf
+
+# File biner
+*.png -text
+*.jpg -text
+*.pdf -text
