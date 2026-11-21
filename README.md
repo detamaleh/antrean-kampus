@@ -12,7 +12,7 @@ Pada tahap ini, proyek baru berupa kerangka aplikasi.
 | Nama | NIM | Akun GitHub | Peran |
 |---|---|---|---|
 | Deta Maleh | - | @detamaleh | Ketua Tim |
-
+| Mahasiswa Simulasi | - | @detamaleh | Anggota Simulasi |
 ## Cara Menjalankan
 Akan diisi pada Pertemuan 9.
 
