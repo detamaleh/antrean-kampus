@@ -1,4 +1,4 @@
-# Profil Mahasiswa 1
+Strategi percabangan tim kami adalah GitHub Flow.# Profil Mahasiswa 1
 
 Nama: Deta Maleh
 Peran: Ketua Tim
